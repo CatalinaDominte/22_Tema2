@@ -1,0 +1,33 @@
+[
+  {
+    "userId": 1,
+    "postId": 1,
+    "commentId": 1,
+    "text": "Lange habe ich hart gearbeitet und auf die Kaution für meine erste eigene Wohnung gespart"
+  },
+
+  {
+    "userId": 1,
+    "postId": 2,
+    "commentId": 2,
+    "text": "Für die Miete bezahle ich 450 Euro"
+  },
+  {
+    "userId": 2,
+    "postId": 2,
+    "commentId": 3,
+    "text": "Bewohner einen Parkplatz mit einer Stromtankstelle"
+  },
+  {
+    "userId": 3,
+    "postId": 3,
+    "commentId": 4,
+    "text": "Strom, Gas und Internet bezahle ich extra. "
+  },
+  {
+    "userId": 1,
+    "postId": 4,
+    "commentId": 5,
+    "text": "Außerdem musste ich 1200 Euro Kaution bezahlen, die ich wieder bekomme, wenn ich ausziehe und ich die Wohnung sauber und ohne Schäden übergebe"
+  }
+]
